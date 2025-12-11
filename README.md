@@ -57,7 +57,7 @@ pip install -r requirements.txt
 4. Streamlit Web App
 
 Run the Streamlit app: streamlit run streamlit_app.py
-Open this URL to use the app: http://localhost:8501/
+Open this URL to use the app: https://bit.ly/Fraud_detection_app
 
 Upload any CSV file with your transaction data
 The app will automatically preprocess, engineer features, and make predictions
