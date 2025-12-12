@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
+from feature_engineer import FeatureEngineer
 
 st.set_page_config(page_title="Fraud Detection", layout="wide")
 
